@@ -15,7 +15,7 @@ export const projects = [
       "This app allows users to send surveys to a large number of recipients to collect feedback.",
     placeholder: "Visit website",
     image: "./project-2.gif",
-    link: "",
+    link: "https://cryptic-ocean-57842.herokuapp.com/",
   },
 
   // {
