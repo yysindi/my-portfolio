@@ -12,9 +12,11 @@ export default function About() {
             Full-Stack Developer
           </h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+            I am currently undertaking my Postgraduate Degree in Computing and
+            Information Systems at Queen Mary, University of London. When I am
+            not studying for university, I am usually taking online courses
+            learning new frameworks and technologies to make me a better
+            developer. JavaScript nerd, frontend and backend.
           </p>
           <div className="flex justify-center">
             <a

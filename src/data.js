@@ -1,36 +1,41 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Expify",
+    subtitle: "Rails and PostgreSQL",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Built an app with a team of coders which aims to connect graduates with startups, gamified with 'exp'.",
+    placeholder: "See code in Github",
     image: "./project-1.gif",
-    link: "",
+    link: "https://github.com/yysindi/exp",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Bulk",
+    subtitle: "MERN stack",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "This app allows users to send surveys to a large number of recipients to collect feedback.",
+    placeholder: "Visit website",
     image: "./project-2.gif",
     link: "",
   },
-  {
-    title: "DevChat",
-    subtitle: "React and Firebase",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "",
-  },
-  {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "",
-  },
+
+  // {
+  //   title: "DevChat",
+  //   subtitle: "React and Firebase",
+  //   description:
+  //     "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum.",
+  //   placeholder: "Visit website",
+  //   image: "./project-3.gif",
+  //   link: "",
+  // },
+  // {
+  //   title: "Epic Todo App",
+  //   subtitle: "React Hooks",
+  //   description:
+  //     "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum.",
+  //   placeholder: "Visit website",
+  //   image: "./project-4.gif",
+  //   link: "",
+  // },
 ];
 
 // export const testimonials = [
