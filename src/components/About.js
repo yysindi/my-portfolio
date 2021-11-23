@@ -16,7 +16,7 @@ export default function About() {
             Information Systems at Queen Mary, University of London. When I am
             not studying for university, I am usually taking online courses
             learning new frameworks and technologies to make me a better
-            developer. JavaScript nerd, frontend and backend.
+            developer.
           </p>
           <div className="flex justify-center">
             <a
