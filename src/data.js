@@ -1,21 +1,30 @@
 export const projects = [
   {
-    title: "Expify",
-    subtitle: "Rails and PostgreSQL",
+    title: 'Expify',
+    subtitle: 'Rails and PostgreSQL',
     description:
       "Built an app with a team of coders which aims to connect graduates with startups, gamified with 'exp'.",
-    placeholder: "See code in Github",
-    image: "./project-1.gif",
-    link: "https://github.com/yysindi/exp",
+    placeholder: 'See code in Github',
+    image: './project-1.gif',
+    link: 'https://github.com/yysindi/exp',
   },
   {
-    title: "Bulk",
-    subtitle: "MERN stack",
+    title: 'Bulk',
+    subtitle: 'MERN stack',
     description:
-      "This app allows users to send surveys to a large number of recipients to collect feedback.",
-    placeholder: "Visit website",
-    image: "./project-2.gif",
-    link: "https://cryptic-ocean-57842.herokuapp.com/",
+      'This app allows users to send surveys to a large number of recipients to collect feedback.',
+    placeholder: 'Visit website',
+    image: './project-2.gif',
+    link: 'https://cryptic-ocean-57842.herokuapp.com/',
+  },
+  {
+    title: 'Library Database Management System',
+    subtitle: 'Oracle',
+    description:
+      'Report on the process involved in implementing a relation schema, providing the code that was used to create tables, views, triggers, and insert/query data.',
+    placeholder: 'Download PDF',
+    image: 'Oracle_Logo.jpg',
+    link: './DatabaseDesignCoursework2.pdf',
   },
 
   // {
@@ -56,18 +65,18 @@ export const projects = [
 // ];
 
 export const skills = [
-  "JavaScript",
-  "React",
-  "Express.js",
-  "Node",
-  "Ruby",
-  "Python",
-  "Ruby on Rails",
-  "Docker",
-  "MongoDB",
-  "Kubernetes",
-  "SQL",
-  "Git",
-  "GraphQL",
-  "Github",
+  'JavaScript',
+  'React',
+  'Express.js',
+  'Node',
+  'Ruby',
+  'Python',
+  'Ruby on Rails',
+  'Docker',
+  'MongoDB',
+  'Kubernetes',
+  'SQL',
+  'Git',
+  'GraphQL',
+  'Github',
 ];
